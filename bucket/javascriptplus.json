@@ -4,7 +4,7 @@
     "homepage": "https://github.com/dzedzejdze/javascriptplus",
     "license": "MIT",
     "url": "https://github.com/dzedzejdze/javascriptplus/releases/download/v1.0.0/bin.zip",
-    "hash": "A00D7C38360E16710A60C87CA161DEE4B2CD64CF687A12B585A5624A480A60D7",
+    "hash": "38a95efd2df271ca5ff2842d96baba75939c3bf956422b193895a1a14f4d91c9",
     "extract_dir": "bin",
     "bin": [["jsplus.bat", "jsplus"]]
 }
